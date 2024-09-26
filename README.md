@@ -1,4 +1,3 @@
-## Hi there 👋
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66f3c837c45e253cb043686e?variant=dark&roadmaps=66f3c85cc45e253cb0436f4a" alt="roadmap.sh"/></a>
 <!--
 **vinaysonavane/vinaysonavane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
